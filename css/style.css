@@ -1,0 +1,80 @@
+
+@font-face {
+    font-family:"DancingScript";
+    src: url("../fonts/DancingScript-SemiBold.woff2") format(woff2), url("../fonts/DancingScript-SemiBold.woff") format(woff);
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family:"Roboto";
+    src: url("../fonts/Roboto-Bold.woff2") format(woff2), url("../fonts/Roboto-Bold.woff") format(woff);
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family:"Roboto";
+    src: url("../fonts/Roboto-Regular.woff2") format(woff2), url("../fonts/Roboto-Regular.woff") format(woff);
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    font-family:"Roboto", sans-serif;
+    font-size: 20px;
+    font-style:oblique;
+    color: white;
+    text-align: center;
+    
+}
+
+.porsche,
+h4{
+    font-family: "Dancing Script", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+
+.yey{
+    margin-left: 10px;
+}
+
+.text{
+    background-color: red;
+}
+.taykan{
+    background-color: green;
+}
+.panamera{
+    background-color: orangered;
+}
+.macan{
+    background-color: blue;
+}
+.cayenne{
+    background-color: black;
+}
+.head{
+    text-align: center;
+    margin-bottom: 400px;
+}
+.mao{ 
+    color: red;
+}
+.dawse{
+    color: green;
+}
+.history{
+    color:orangered;
+}
+.customer{
+    color: blue;
+}
+.work{
+    color: black;
+}
